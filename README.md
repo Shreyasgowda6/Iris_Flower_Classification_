@@ -27,7 +27,8 @@ pandas
 numpy                    
 scikit-learn                      
 matplotlib                                  
-tensorflow
+tensorflow                  
+
 Run the code to load the dataset, perform data exploration, and train the models.
 
 Explore the classification results and model performance metrics.
