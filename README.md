@@ -23,10 +23,11 @@ Feel free to explore the code for IRIS flower classification using Logistic Regr
 
 # Usage
 Ensure you have the necessary dependencies installed:
-
-bash
-Copy code
-pip install pandas numpy scikit-learn matplotlib tensorflow
+pandas                   
+numpy                    
+scikit-learn                      
+matplotlib                                  
+tensorflow
 Run the code to load the dataset, perform data exploration, and train the models.
 
 Explore the classification results and model performance metrics.
